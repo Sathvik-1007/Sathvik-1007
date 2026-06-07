@@ -82,7 +82,7 @@ Idea-to-repository code generation. Multi-phase LLM pipeline, DAG task planning,
 ### `> evidence`
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sathvik-1007&show_icons=true&hide_border=true&bg_color=0d1117&icon_color=00C853&title_color=00C853&text_color=c9d1d9&rank_icon=github" height="160" />
+    <img src="https://streak-stats.demolab.com?user=Sathvik-1007&hide_border=true&background=0D1117&ring=00C853&fire=00C853&currStreakLabel=00C853&sideLabels=c9d1d9&dates=555555&currStreakNum=00C853" height="160" />
 </p>
 
 <p align="center">
