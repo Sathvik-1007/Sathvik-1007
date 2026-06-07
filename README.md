@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00C853&height=200&section=header&text=Sathvik%20Kuthuru&fontSize=42&fontColor=00C853&fontAlignY=35&desc=AI%20Engineer%20%7C%20NIT%20Andhra%20Pradesh&descSize=18&descColor=ffffff&descAlignY=55&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00C853&height=200&section=header&text=Sathvik%20Gilakamsetty&fontSize=42&fontColor=00C853&fontAlignY=35&desc=AI%20Engineer&descSize=20&descColor=ffffff&descAlignY=55&animation=fadeIn" width="100%"/>
 
 <p align="center">
   <a href="https://linkedin.com/in/sathvik1007"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
