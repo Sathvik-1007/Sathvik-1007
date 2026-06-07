@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00C853&center=true&vCenter=true&multiline=true&random=false&width=600&height=70&lines=Building+Production+Agentic+AI+Systems;Advanced+RAG+%7C+Knowledge+Graphs+%7C+LLM+Orchestration" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00C853&center=true&vCenter=true&multiline=true&random=false&width=600&height=70&lines=Building+Production+Agentic+AI+Systems;Advanced+RAG+%7C+Knowledge+Graphs+%7C+LLM+Orchestration" alt="Typing SVG" />
 </p>
 
 ---
@@ -64,7 +64,7 @@ class Sathvik:
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sathvik-1007&show_icons=true&theme=gotham&hide_border=true&bg_color=0d1117&icon_color=00C853&title_color=00C853&rank_icon=github" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Sathvik-1007&theme=gotham&hide_border=true&background=0D1117&ring=00C853&fire=00C853&currStreakLabel=00C853" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=Sathvik-1007&theme=gotham&hide_border=true&background=0D1117&ring=00C853&fire=00C853&currStreakLabel=00C853" width="48%" />
 </p>
 
 <p align="center">
